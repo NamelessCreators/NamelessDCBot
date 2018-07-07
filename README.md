@@ -1,0 +1,2 @@
+# NamelessDCBot
+Discord bot
